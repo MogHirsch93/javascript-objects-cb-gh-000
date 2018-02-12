@@ -1,3 +1,1 @@
-var playlist = {};
-
-var playlist = new Object();
+var playlist = { Skinshape: "Live by the Day"};
