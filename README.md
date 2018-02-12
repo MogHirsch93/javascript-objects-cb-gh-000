@@ -1,4 +1,3 @@
 var playlist = {};
 
-var palylist = new Object();
-
+var playlist = new Object();
